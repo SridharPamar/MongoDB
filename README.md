@@ -3,9 +3,9 @@ Node.js MongoDB Project
 
 .
 
-### RESTful Web Service Using Node.js and MongoDB
+###  Web Service Using Node.js and MongoDB
 
-build a complete RESTful web service that handles CRUD operations for a Person collection.
+build a complete  web service that handles CRUD operations for a Person collection.
 
 ```typescriptreact project="node_mongo_rest"
 ...
@@ -65,6 +65,3 @@ npm run dev
 
 
 
-This implementation follows RESTful principles and provides a complete solution for managing person records with all the required fields: Name, Age, Gender, and Mobile number.
-
-Please make sure to add the following environment variable to your project:
